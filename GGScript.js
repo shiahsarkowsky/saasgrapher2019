@@ -29,7 +29,7 @@ function zoomIn() {
  resetCanvas();
 }
 
-function resetCanvas() {
+function reset() {
  init();
  Ggraph();
 }
